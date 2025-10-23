@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 720">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#F7F2EB" />
+      <stop offset="100%" stop-color="#E8DED1" />
+    </linearGradient>
+  </defs>
+  <rect width="360" height="720" fill="url(#bg)" rx="36" />
+  <rect x="24" y="32" width="312" height="656" rx="28" fill="#FFFFFF" stroke="#A46843" stroke-width="6" />
+  <rect x="52" y="96" width="256" height="80" rx="18" fill="#A46843" />
+  <text x="80" y="146" font-family="'Inter', sans-serif" font-size="24" fill="#FFFFFF">Flowjo Score</text>
+  <text x="80" y="178" font-family="'Inter', sans-serif" font-size="32" fill="#FFFFFF" font-weight="700">72</text>
+  <text x="52" y="228" font-family="'Inter', sans-serif" font-size="20" fill="#2A4D7A" font-weight="600">Dojo • Morning Ritual</text>
+  <text x="52" y="260" font-family="'Inter', sans-serif" font-size="16" fill="#2A4D7A">3 min breathing + intent reset</text>
+  <text x="52" y="316" font-family="'Inter', sans-serif" font-size="18" fill="#C6452B" font-weight="600">Today's Focus</text>
+  <text x="52" y="346" font-family="'Inter', sans-serif" font-size="28" fill="#2A4D7A" font-weight="700">Ship onboarding emails</text>
+  <rect x="52" y="404" width="256" height="140" rx="24" fill="#F2E9DE" />
+  <text x="72" y="452" font-family="'Inter', sans-serif" font-size="16" fill="#A46843" font-weight="600">Energy Boost</text>
+  <text x="72" y="484" font-family="'Inter', sans-serif" font-size="14" fill="#2A4D7A">Cold shower + matcha</text>
+  <rect x="52" y="572" width="256" height="52" rx="14" fill="#C6452B" />
+  <text x="112" y="606" font-family="'Inter', sans-serif" font-size="18" fill="#FFFFFF" font-weight="600">Start Dojo</text>
+</svg>
